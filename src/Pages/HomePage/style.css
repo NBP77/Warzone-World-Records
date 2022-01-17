@@ -1,0 +1,21 @@
+.homepage {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+
+
+.home-title {
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 60px;
+}
+
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

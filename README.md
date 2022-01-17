@@ -1,28 +1,13 @@
 # Warzone World Record Website
 
-Description
-
 ## Description
 
--description.. 
+Welcome to a centralized website for all Call of Duty WARZONE world records. In this site you will be able to find every world record for each game format including game footage. 
  
-## Installation
+## Link to view 
 
-To check the project, I worked on click on these links: 
-
-GitHub: 
+Click on the link below to view the site. 
 
 Video: <iframe src="https://drive.google.com/file/d/1M3VohKEFunwj7pY5JSUuFVvNRdh9gdFs/preview" width="640" height="480"></iframe> 
 
-Link: 
-
 ## Usage
-
-Examples:
-
--Installed Node Inquirer
-
-
-## Credits
-
-I was able to do most of this based of the activities we have done in class, that was my biggest resource. 

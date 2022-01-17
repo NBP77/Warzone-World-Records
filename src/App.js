@@ -6,9 +6,6 @@ import Caldera from "./Pages/Caldera";
 import "./App.css";
 
 function App() {
-
-
-
   return (
     <div className="App">
       <BrowserRouter>

@@ -29,7 +29,7 @@ let worldRecordsVerdansk = [
       name: "iNewwz",
       kills: 47,
       date: "2/2/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/IWjY-jaFYoo",
       picture: iNewwz
 
     },
@@ -39,7 +39,7 @@ let worldRecordsVerdansk = [
       name: "Nistaf & BabaYuki",
       kills: 79,
       date: "1/6/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/vD94mVwLteU",
       pictureOne: Nistaf,
       pictureTwo: BabaYuki
 
@@ -50,7 +50,7 @@ let worldRecordsVerdansk = [
       name: "Dizi, xDaltt, DonLucky",
       kills: 129,
       date: "1/5/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/eHhxa52EiCs",
       pictureOne: Dizi,
       pictureTwo: xDaltt, 
       pictureThree: DonLucky 
@@ -62,7 +62,7 @@ let worldRecordsVerdansk = [
       name: "Aydan, Almond, ScummN, Newbz",
       kills: 162,
       date: "3/5/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/04j5JodyD5U",
       pictureOne: Aydan,
       pictureTwo: Almond, 
       pictureThree: ScummN,
@@ -75,7 +75,7 @@ let worldRecordsVerdansk = [
       name: "HusKerrs",
       kills: 54,
       date: "12/30/2020",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/4Ywff-V4ap8",
       picture: HusKerrs
 
     },
@@ -85,7 +85,7 @@ let worldRecordsVerdansk = [
       name: "Aydan",
       kills: 52,
       date: "7/21/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/SFyvi3HbAAE",
       picture: Aydan
 
     },
@@ -95,7 +95,7 @@ let worldRecordsVerdansk = [
       name: "MuTeX",
       kills: 61,
       date: "6/2/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/-sbg3mEK9EY",
       picture: MuTeX
 
     },
@@ -105,7 +105,7 @@ let worldRecordsVerdansk = [
       name: "Ghanime Gaming & Modz",
       kills: 90,
       date: "1/10/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/qG4WUsU549I",
       pictureOne: GhanimeGaming,
       pictureTwo: Modz
 
@@ -116,7 +116,7 @@ let worldRecordsVerdansk = [
       name: "SuperEvan & Newbz",
       kills: 107,
       date: "1/10/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/4UJD1IlpWXo",
       pictureOne: SuperEvan,
       pictureTwo: Newbz
 
@@ -127,7 +127,7 @@ let worldRecordsVerdansk = [
       name: "picNICK, Oakleyboiii, ZLaner",
       kills: 119,
       date: "7/28/2021",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/tBhA6E_jaZQ",
       pictureOne: picNICK,
       pictureTwo: Oakleyboii,
       pictureThree: ZLaner
@@ -138,7 +138,7 @@ let worldRecordsVerdansk = [
       name: "Aydan, Swagg, NICKMERCS",
       kills: 108,
       date: "7/5/20220",
-      gameplay: "link",
+      gameplay: "https://www.youtube.com/embed/So08M70HMIM",
       pictureOne: Aydan,
       pictureTwo: Swagg ,
       pictureThree: Nickmercs

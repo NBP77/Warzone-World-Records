@@ -14,7 +14,15 @@ function TriosVsQuads200V() {
           <img src={obj.pictureThree} alt="NICKMERCS the gamer"/>
           <div>{obj.name}</div>
           <div>{obj.kills}</div>
-          <div>{obj.gameplay}</div>
+          <iframe
+            width="350"
+            height="200"
+            src={obj.gameplay}
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
           <div>{obj.date}</div>
         </div>
       </div>

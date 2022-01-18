@@ -1,42 +1,41 @@
 .col {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .record-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border: solid 2px aqua;
-    border-radius: 5px;
-    padding: 20px;
-    margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: solid 8px white; */
+  border-radius: 35px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 0 50px var(--silver);
 }
 
 .recordType {
-    font-size: 60px;
-    padding-bottom: 20px;
+  font-size: 60px;
+  padding-bottom: 20px;
 }
 
 .inewwz-pic {
-    border-radius: 10px;
+  border-radius: 10px;
+  border: 5px solid black;
 }
 
 .gamers-name {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .kills {
-    font-size: 30px;
+  font-size: 30px;
 }
 
 .date {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 iframe {
-    border-radius: 5px;
+  border-radius: 5px;
 }
-
-
-

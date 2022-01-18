@@ -1,7 +1,12 @@
-.App {
-  min-height: 100vh;
-  background-color: #282c34;
-  color: white;
-  
+:root {
+  --silver: #B0B7BC;
+  --powder-blue:#0080C6;
+  --gold: #FFC20E;
 }
 
+.App {
+  min-height: 100vh;
+  background-color: var(--powder-blue);
+  color: white;
+  font-family: "Kanit", sans-serif;
+}

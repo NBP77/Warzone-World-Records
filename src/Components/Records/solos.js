@@ -13,7 +13,7 @@ function SolosV() {
         <div className="kills">{obj.kills}</div>
         <div className="date">{obj.date}</div>
         <iframe
-          width="350"
+          width="320"
           height="200"
           src={obj.gameplay}
           title="YouTube video player"

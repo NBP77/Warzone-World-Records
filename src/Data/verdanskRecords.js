@@ -25,7 +25,7 @@ let worldRecordsVerdansk = [
   
     {
       id: 1,
-      record: "Solos",
+      record: "SOLOS",
       name: "iNewwz",
       kills: 47,
       date: "2/2/2021",
@@ -35,7 +35,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 2,
-      record: "Duos",
+      record: "DUOS",
       name: "Nistaf & BabaYuki",
       kills: 79,
       date: "1/6/2021",
@@ -46,7 +46,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 3,
-      record: "Trios",
+      record: "TRIOS",
       name: "Dizi, xDaltt, DonLucky",
       kills: 129,
       date: "1/5/2021",
@@ -58,7 +58,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 4,
-      record: "Quads",
+      record: "QUADS",
       name: "Aydan, Almond, ScummN, Newbz",
       kills: 162,
       date: "3/5/2021",
@@ -71,7 +71,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 5,
-      record: "Solo vs Duos",
+      record: "SOLOS vs DUOS",
       name: "HusKerrs",
       kills: 54,
       date: "12/30/2020",
@@ -81,7 +81,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 6,
-      record: "Solo vs Trios",
+      record: "SOLOS vs TRIOS",
       name: "Aydan",
       kills: 52,
       date: "7/21/2021",
@@ -91,7 +91,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 7,
-      record: "Solo vs Quads",
+      record: "SOLOS vs QUADS",
       name: "MuTeX",
       kills: 61,
       date: "6/2/2021",
@@ -101,7 +101,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 8,
-      record: "Duos vs Trios",
+      record: "DUOS vs TRIOS",
       name: "Ghanime Gaming & Modz",
       kills: 90,
       date: "1/10/2021",
@@ -112,7 +112,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 9,
-      record: "Duos vs Quads",
+      record: "DUOS vs QUADS",
       name: "SuperEvan & Newbz",
       kills: 107,
       date: "1/10/2021",
@@ -123,7 +123,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 10,
-      record: "Trios vs Quads",
+      record: "TRIOS vs QUADS",
       name: "picNICK, Oakleyboiii, ZLaner",
       kills: 119,
       date: "7/28/2021",
@@ -134,7 +134,7 @@ let worldRecordsVerdansk = [
     },
     {
       id: 11,
-      record: "Trios vs Quads(200)",
+      record: "TRIOS vs QUADS(200)",
       name: "Aydan, Swagg, NICKMERCS",
       kills: 108,
       date: "7/5/20220",

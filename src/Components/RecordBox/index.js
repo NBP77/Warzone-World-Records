@@ -15,17 +15,47 @@ import TriosVsQuads200V from "../Records/trios vs quads(200)";
 function RecordBox() {
   return (
     <div className="container">
-      <SolosV />
-      <DuosV />
-      <TriosV />
-      <QuadsV />
-      <SolosVsDuosV />
-      <SolosVsTriosV />
-      <SolosVsQuadsV />
-      <DuosVsTriosV />
-      <DuosVsQuadsV />
-      <TriosVsQuadsV />
-      <TriosVsQuads200V />
+      <div className="row">
+        <div className="col">
+          <SolosV />
+        </div>
+        <div div className="col">
+          <DuosV />
+        </div>
+        <div div className="col">
+          <TriosV />
+        </div>
+      </div>
+      <div className="row">
+        <div div className="col">
+          <QuadsV />
+        </div>
+        <div div className="col">
+          <SolosVsDuosV />
+        </div>
+        <div div className="col">
+          <SolosVsTriosV />
+        </div>
+      </div>
+      <div className="row">
+        <div div className="col">
+          <SolosVsQuadsV />
+        </div>
+        <div div className="col">
+          <DuosVsTriosV />
+        </div>
+        <div div className="col">
+          <DuosVsQuadsV />
+        </div>
+      </div>
+      <div className="row">
+        <div div className="col">
+          <TriosVsQuadsV />
+        </div>
+        <div div className="col">
+          <TriosVsQuads200V />
+        </div>
+      </div>
     </div>
   );
 }

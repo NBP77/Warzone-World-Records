@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function TriosVsQuads200V() {
   const DisplayTriosVsQuads200 = worldRecordsVerdansk.slice(10, 11).map((obj) => {
     return (
-      <div className="col">
+      <div>
         <div className="record-card">
           <div className="recordType">{obj.record}</div>
           <img src={obj.pictureOne} alt="Aydan the gamer"/>
@@ -29,7 +29,7 @@ function TriosVsQuads200V() {
     );
   });
 
-  return <div className="row ">{DisplayTriosVsQuads200}</div>;
+  return <div>{DisplayTriosVsQuads200}</div>;
 }
 
 export default TriosVsQuads200V;

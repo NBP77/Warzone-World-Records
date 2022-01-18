@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function QuadsV() {
   const DisplayQuadsV = worldRecordsVerdansk.slice(3, 4).map((obj) => {
     return (
-      <div className="col">
+      <div>
         <div className="record-card">
           <div className="recordType">{obj.record}</div>
           <img src={obj.pictureOne} alt="Aydan the gamer"/>
@@ -30,7 +30,7 @@ function QuadsV() {
     );
   });
 
-  return <div className="row ">{DisplayQuadsV}</div>;
+  return <div>{DisplayQuadsV}</div>;
 }
 
 export default QuadsV;

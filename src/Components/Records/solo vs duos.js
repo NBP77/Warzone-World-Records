@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function SolosVsDuosV() {
   const DisplaySolosVsDuos = worldRecordsVerdansk.slice(4, 5).map((obj) => {
     return (
-      <div className="col">
+      <div>
         <div className="record-card">
           <div className="recordType">{obj.record}</div>
           <img src={obj.picture} alt="HusKerrs the gamer"/>
@@ -27,7 +27,7 @@ function SolosVsDuosV() {
     );
   });
 
-  return <div className="row ">{DisplaySolosVsDuos}</div>;
+  return <div>{DisplaySolosVsDuos}</div>;
 }
 
 export default SolosVsDuosV;
